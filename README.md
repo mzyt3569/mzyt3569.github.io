@@ -1,2 +1,2 @@
-GoTO:
+GoTo:
 https://mzyt3569.github.io/
